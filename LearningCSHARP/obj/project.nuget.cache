@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0XzfUKgkHqttBiD4L3eIKgcvz7O3eBldDHLv8gixNbm+T0VoVsfNWQi70SP5+abUWFcUotdHCxoIOoBTzSPwYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AntonyLanglois\\RiderProjects\\LearningCSHARP\\LearningCSHARP\\LearningCSHARP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AntonyLanglois\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\AntonyLanglois\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
